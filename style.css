@@ -1,0 +1,49 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+.card-group{
+     margin-bottom: 20px;
+}
+.container-lg h3{
+     text-decoration: underline;
+     background-color: aqua;
+
+}
+.container-lg p{
+     font-size: x-large;
+}
+.card {
+     background-color: rgb(107, 104, 104);
+     color: white;
+
+}
+.card h5{
+     font-weight: bold;
+     text-decoration: underline;
+}
+.card-group > div:hover{
+     opacity: 0.8;
+     transform: scale(0.98);
+}
+.row{
+     margin-left: 25px;
+     margin-right: 25px;
+}
+.card-group{
+     column-gap: 3vh;
+}
+.btn:hover{
+     color: rgb(230, 20, 12);
+     text-decoration: underline;
+     font-weight: bold;
+     font-size: large;
+}
+.offcanvas-body ul li a{
+    text-decoration: underline;
+}
+.offcanvas-body ul li a:hover{
+    text-decoration: none;
+    
+}
